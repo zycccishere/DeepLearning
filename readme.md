@@ -1,4 +1,4 @@
 ## thu deep learning course
-especially for the storage of some static resources
+especially for the storage of static resources
 
-for personal usage
+only for personal usage
